@@ -2,7 +2,7 @@
 
 - 🔭 Eu trabalho com desenvolvimento para Cloud
 - 🌱 Estou estudando sobre produtividade, investimentos e AWS
-- 📫 Contate-me no email: contato@alexribeiro.com.br
+- 📫 Contate-me no email: contato@alexribeiro.io
 - 😄 Pronomes: ele/dele
 
 <div>
